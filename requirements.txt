@@ -1,0 +1,5 @@
+streamlit==1.45.0
+supabase==2.15.1
+pymongo==4.12.1
+pandas==2.2.3
+certifi==2025.4.26
